@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-ajhh3d.privatetalks.online/sitemap.xml
